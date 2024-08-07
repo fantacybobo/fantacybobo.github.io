@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Demo fo Hugo</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Demo fo Hugo</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jul 2024 23:22:24 +0800</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Css</title>
+      <link>/tags/css/</link>
+      <pubDate>Sat, 27 Jul 2024 23:22:24 +0800</pubDate>
+      <guid>/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>/tags/html/</link>
+      <pubDate>Sat, 27 Jul 2024 23:22:24 +0800</pubDate>
+      <guid>/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>/tags/javascript/</link>
+      <pubDate>Sat, 27 Jul 2024 23:22:24 +0800</pubDate>
+      <guid>/tags/javascript/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
