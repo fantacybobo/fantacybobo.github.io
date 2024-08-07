@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Demo fo Hugo</title>
+    <link>/</link>
+    <description>Recent content on Demo fo Hugo</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Aug 2024 12:09:50 +0800</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fifth</title>
+      <link>/posts/fifth/</link>
+      <pubDate>Sat, 03 Aug 2024 12:09:50 +0800</pubDate>
+      <guid>/posts/fifth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4th Post333</title>
+      <link>/posts/dir1/forth/</link>
+      <pubDate>Fri, 02 Aug 2024 22:36:11 +0800</pubDate>
+      <guid>/posts/dir1/forth/</guid>
+      <description>这是一级标题 这是二级标题 这是正文哦444</description>
+    </item>
+    <item>
+      <title>Third Post333</title>
+      <link>/posts/dir1/third/</link>
+      <pubDate>Thu, 01 Aug 2024 22:36:11 +0800</pubDate>
+      <guid>/posts/dir1/third/</guid>
+      <description>这是一级标题 这是二级标题 这是正文哦333</description>
+    </item>
+    <item>
+      <title>第二篇Post</title>
+      <link>/posts/second/</link>
+      <pubDate>Sat, 27 Jul 2024 23:23:24 +0800</pubDate>
+      <guid>/posts/second/</guid>
+      <description>这是一级标题 这是二级标题 这是正文哦 111 click me </description>
+    </item>
+    <item>
+      <title>第一篇Post</title>
+      <link>/posts/first/</link>
+      <pubDate>Sat, 27 Jul 2024 23:22:24 +0800</pubDate>
+      <guid>/posts/first/</guid>
+      <description>这是一级标题 这是二级标题 这是正文
+This is an inline \(q\left(\mathbf{x}_t \mid \mathbf{x}_0\right)=\mathcal{N}\left(\mathbf{x}_t ; \sqrt{\bar{\alpha}_t} \mathbf{x}_0,\left(1-\bar{\alpha}_t\right) \mathbf{I}\right)\) equation.
+next line
+These are block equations:
+\[a^*=x-b^*\] \[ a^*=x-b^* \] \[ \hat{\mathbb{E}}_{\tau_i}\left[\nabla_w \log \left(D_w(s, a)\right)\right]+\hat{\mathbb{E}}_{\tau_E}\left[\nabla_w \log \left(1-D_w(s, a)\right)\right] \] These are block equations using alternate delimiters:
+$$a^*=x-b^*$$ $$ a^*=x-b^* $$ $$ a^*=x-b^* $$ 111 click me </description>
+    </item>
+  </channel>
+</rss>
